@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="25.169" height="31.231" viewBox="0 0 25.169 31.231">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #4ec7e7;
+        opacity: 0.3;
+        isolation: isolate;
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #1b4660;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 0.933px;
+      }
+    </style>
+  </defs>
+  <g id="Group_90" data-name="Group 90" transform="translate(-674.502 -479.848)">
+    <circle id="Ellipse_14" data-name="Ellipse 14" class="cls-1" cx="7.527" cy="7.527" r="7.527" transform="translate(684.617 479.848)"/>
+    <g id="Group_5" data-name="Group 5">
+      <path id="Path_219" data-name="Path 219" class="cls-2" d="M695.7,508.833v1.779h-20.73v-1.779h1.673v-23a3.432,3.432,0,0,0,3.434-3.43h10.517a3.432,3.432,0,0,0,3.434,3.43h0v23Z"/>
+      <rect id="Rectangle_694" data-name="Rectangle 694" class="cls-2" width="4.218" height="6.669" transform="translate(683.225 503.943)"/>
+      <rect id="Rectangle_695" data-name="Rectangle 695" class="cls-2" width="2.831" height="2.831" transform="translate(678.642 504.346)"/>
+      <rect id="Rectangle_696" data-name="Rectangle 696" class="cls-2" width="2.831" height="2.831" transform="translate(689.313 504.346)"/>
+      <rect id="Rectangle_697" data-name="Rectangle 697" class="cls-2" width="2.831" height="2.831" transform="translate(678.642 498.999)"/>
+      <rect id="Rectangle_698" data-name="Rectangle 698" class="cls-2" width="2.831" height="2.831" transform="translate(689.313 498.999)"/>
+      <rect id="Rectangle_700" data-name="Rectangle 700" class="cls-2" width="2.831" height="2.831" transform="translate(683.958 498.964)"/>
+      <rect id="Rectangle_701" data-name="Rectangle 701" class="cls-2" width="2.831" height="2.831" transform="translate(678.642 493.524)"/>
+      <rect id="Rectangle_702" data-name="Rectangle 702" class="cls-2" width="2.831" height="2.831" transform="translate(689.313 493.524)"/>
+      <rect id="Rectangle_704" data-name="Rectangle 704" class="cls-2" width="2.831" height="2.831" transform="translate(683.958 493.49)"/>
+      <rect id="Rectangle_705" data-name="Rectangle 705" class="cls-2" width="2.831" height="2.831" transform="translate(678.642 488.008)"/>
+      <rect id="Rectangle_706" data-name="Rectangle 706" class="cls-2" width="2.831" height="2.831" transform="translate(689.313 488.008)"/>
+      <rect id="Rectangle_708" data-name="Rectangle 708" class="cls-2" width="2.831" height="2.831" transform="translate(683.958 487.974)"/>
+    </g>
+  </g>
+</svg>

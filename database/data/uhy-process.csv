@@ -1,0 +1,44 @@
+step_id,name,order,actionable_id,actionable_type,dependant_activity_id,Type
+1,First Contact Date with Client,1,1,App\ActionableDate,,Date
+1,Client Name / Company Name,2,1,App\ActionableText,,Text
+1,Company Industry,3,1,App\ActionableDropdown,,Dropdown
+1,Lead from,4,2,App\ActionableText,,Text
+1,Contact Name,5,3,App\ActionableText,,Text
+1,Contact Email,6,4,App\ActionableText,,Text
+1,Contact Number,7,5,App\ActionableText,,Text
+1,Existing Client?,8,1,App\ActionableBoolean,,Boolean
+1,Services,9,2,App\ActionableDropdown,,Dropdown
+1,Director,10,3,App\ActionableDropdown,,Dropdown
+1,Date Referral received,11,2,App\ActionableDate,,Date
+2,Request for Quote received?,1,2,App\ActionableBoolean,11,Boolean
+2,Send Introductory Pack,2,1,App\ActionableTemplateEmail,11,Template Email
+2,Fee Proposal sent?,3,3,App\ActionableBoolean,11,Boolean
+2,Date Fee Proposal sent,4,3,App\ActionableDate,11,Date
+3,Capability Statement,1,2,App\ActionableTemplateEmail,15,Template Email
+3,Why UHY?,2,3,App\ActionableTemplateEmail,15,Template Email
+3,Corporate Brochure + UHY Global,3,4,App\ActionableTemplateEmail,15,Template Email
+3,Meeting with Client to discuss Fee Proposal,4,4,App\ActionableDate,15,Date
+3,Quote accepted?,5,4,App\ActionableBoolean,15,Boolean
+4,Meeting with BD required?,1,5,App\ActionableBoolean,20,Boolean
+4,Cover letter ,2,5,App\ActionableTemplateEmail,20,Template Email
+4,LOA (Letter of Authority),3,6,App\ActionableTemplateEmail,20,Template Email
+4,LOE (Letter of Engagement),4,7,App\ActionableTemplateEmail,20,Template Email
+4,Request sent?,5,4,App\ActionableDropdown,20,Dropdown
+4,AML Forms received?,6,1,App\ActionableDocument,20,Document Upload
+4,CRF (Client Registration Form) completed?,7,6,App\ActionableBoolean,20,Boolean
+4,Send to Onboarding Team for review,8,1,App\ActionableNotification,20,Notification
+4,Review completed by,9,5,App\ActionableDropdown,20,Dropdown
+4,Sent to Compliance Officer for review?,10,7,App\ActionableBoolean,20,Boolean
+4,Compliance Officer approves/declines,11,6,App\ActionableDropdown,20,Dropdown
+4,Reason if declined,12,7,App\ActionableDropdown,20,Dropdown
+4,Comment on review,13,6,App\ActionableText,20,Text
+4,Work begun / completed,14,8,App\ActionableBoolean,20,Boolean
+5,CCH Code,1,7,App\ActionableText,34,Text
+5,"Notify Client Director, Manager & UHY FDW Team",2,2,App\ActionableNotification,34,Notification
+5,Send Welcome Letter,3,8,App\ActionableTemplateEmail,34,Template Email
+5,Send Service Offering,4,9,App\ActionableTemplateEmail,34,Template Email
+5,Send Global Magazine,5,10,App\ActionableTemplateEmail,34,Template Email
+5,Send Sector Specific Information,6,11,App\ActionableTemplateEmail,34,Template Email
+5,Send Global UHY Content,7,12,App\ActionableTemplateEmail,34,Template Email
+5,Send UHY FDW Corporate Brochure,8,13,App\ActionableTemplateEmail,34,Template Email
+5,Send Multiple Attachments,9,1,App\ActionableMultipleAttachment,34,Multiple Attachment

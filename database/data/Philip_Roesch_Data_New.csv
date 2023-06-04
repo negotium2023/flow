@@ -1,0 +1,162 @@
+﻿Client_ID;Client_Surname;Client_Initials;Client_FullName;Client_NickName;Client_MaidenName;Client_Title;IDNO;Client_DOB;Client_BirthDay;Client_Gender;Language_Name;Marital_Type;Client_Greeting;Client_TelHome;Client_FaxHome;Client_TelWork;Client_FaxWork;Client_Email;Client_Cell;Client_HomeAddress1;Client_HomeAddress2;Client_HomeAddress3;Client_HomeCode;Client_PostalAddress1;Client_PostalAddress2;Client_PostalAddress3;Client_PostalCode;Client_Smoker;Client_TaxOffice;Client_TaxNumber;Client_Reference;Client_Anniversary;Review;Client_Income;Client_DivisionID;Employer_Name;Notify_Type;Family_Type;Client_Notes;Bank_Name;Account_Type;Bank_Branch;Bank_BranchCode;Bank_Account_Name;Bank_Account_Holder;Division_Name;Client_LeadStatus;Status;Occupation_Type;RiskCategory
+1677822;Henn;C;Cornelius;Cornelius;;;4,50E+12;06 02 1945;6;;English;Single;;;;;;;;;;;;;;;;;;;;;December;0;4754;;;;;;;;;;;Philip Roesch;1;Active;;Low
+1677824;Badenhorst;PS;Petrus Shaw;Petrus;;Mnr.;4,51E+12;04 06 1945;4;Male;Afrikaans;Married in COP;;126 671 544;;;;ecape@sintec.co.za;083-2749795;Manor House 137;Suidstraat;Die Hoewe;163;Posbus 11959;Die Hoewes;Centurion;163;;;;;;December;0;4754;;Email;Principal;;;;;;;;Philip Roesch;1;Active;;Low
+1677881;De Brito;MJC;Manuel;Manuel;;Mr.;5,21E+12;23 10 1952;23;Male;English;Married;;;;;;manuel@roningms.com;072-2645899;;;;;Po Box 64;Glenvista;;2058;;;;;;December;0;4754;;;Principal;;;;;;;;Philip Roesch;1;Active;;Low
+1677873;Booysen;J;Jan;Jan;;;5,11E+12;03 12 1951;3;;English;Married - ANC with accrual;;;;;;;082-3368443;;;;;"""Belker Straat 5 
+Clayville""";Olifantsfontein;;1666;;;;;;December;0;4754;;;;;;;;;;;Philip Roesch;1;Active;;Low
+1677884;Bouwer;JE;Jacobus;Jacobus;;Dr.;5,21E+12;28 12 1952;28;Male;Afrikaans;Single;;124604957;;128072744;;albou@mweb.co.za;;;;;;Posbus12555;Hatfield;;28;;;;;;December;0;4754;;Email;;;;;;;;;Philip Roesch;1;Active;;Low
+1677978;Blasl;M;Marcelle;Marcelle;;;5,81E+12;05 12 1958;5;;English;Married - ANC with accrual;;;;;;marcelle.blasl@gmail.com;082-8591507;;;;;PO Box 66069;Highveld;;169;;;;;;December;0;4754;;;;;;;;;;;Philip Roesch;1;Active;;Low
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+1677991;Griessel;J;J;J;;;5,91E+12;14 11 1959;14;;English;Married - ANC with accrual;;;;;;;;;;;;;;;;;;;;;December;0;4754;;;;;;;;;;;Philip Roesch;1;Active;;Low
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+1677821;De Ridder;S;Smuts;Smuts;;;4,41E+12;09 09 1944;9;;English;Single;;;;;;;083-2348284;;;;;110 Altena Straat;Strand;;7140;;;;;;December;0;4754;;;;;;;;;;;Philip Roesch;1;Active;;Low
+1680243;Luyt;S;Sonel;Sonel;;;8,11E+12;05 05 1981;5;;English;Married - ANC with accrual;;;;;;sluyt@medihelp.co.za;083-2617688;;;;;101 Bishopbird Straat;ROOIHUISKRAAL NORTH;;157;;;;;;December;0;4754;;;;;;;;;;;Philip Roesch;1;Active;;Low
+1678088;Brettenny;I;Isabelle;Isabelle;;;6,40E+12;31 01 1964;31;;English;Married - ANC with accrual;;;;;;isabelle.brettennyQ@mastercurrency.co.z;082-8962640;;;;;PO Box 366;Kuils River;;7580;;;;;;December;0;4754;;;;;;;;;;;Philip Roesch;1;Active;;Low
+1678106;Barendrecht;L;Lambertus;Lambertus;;Mr.;6,41E+12;30 06 1964;30;Male;English;Married - ANC with accrual;;119075952;;;;bert.barendrecht@pebbletree.co.za;082-3394199;;;;;14 Roslyn Ave Randhart;Alberton;;1449;;;;;;December;0;4754;;Email;Principal;;;;;;;;Philip Roesch;1;Active;;Low
+1678157;Fourie;B;Brink;Brink;;;6,60E+12;23 04 1966;23;;English;Single;;;;;;bfourie@stortech.co.za;082-8850810;;;;;Posbus 623;Wingate Park;;153;;;;;;December;0;4754;;;;;;;;;;;Philip Roesch;1;Active;;Low
+1677839;Foulkes;D;David;David;;;4,71E+12;24 09 1947;24;;English;Single;;;;;;david.foulkes@telkomsa.net;083-6345478;;;;;PO Box 9546;Cinda Park;;1463;;;;;;December;0;4754;;;;;;;;;;;Philip Roesch;1;Active;;Low
+1680285;Malan;PC;Petrus Cornelius;Petrus;;Mnr.;3,91E+12;14 08 1939;14;Male;Afrikaans;Married - ANC with accrual;;;;;;;082-7320090;;;;;Boshoffstraat 3;RUSTENBURG;;299;;;;;;December;0;4754;;;Principal;;;;;;;;Philip Roesch;1;Active;;Low
+1677892;Bone;R;R;R;;;5,31E+12;22 06 1953;22;;English;Married - ANC with accrual;;;;021-8553247;;;;;;;;PO Box 1663;Somerset West;;7129;;;;;;December;0;4754;;;;;;;;;;;Philip Roesch;1;Active;;Low
+1677923;Kloppers;MH;Mauritz Herman Otto;Mauritz ;;Mr.;5,51E+12;26 11 1955;26;Male;Afrikaans;Married - ANC with accrual;;;;;;mauritz@epilon.co.za;824545195;;;;;Posbus 2390;Randburg;;2125;;;;;;December;0;4754;;;Principal;;;;;;;;Philip Roesch;1;Active;;Low
+1678513;Hudson;M;Mark;Mark;;Mr.;7,61E+12;20 09 1976;20;Male;English;Married - ANC with accrual;;;;;;mark@hudsonsafaris.com;082-4922806;;;;;Po Box 12700;Hatfield;;83;;;;;;December;0;4754;;;Principal;;;;;;;;Philip Roesch;1;Active;;Low
+1678518;Barendrecht;Y;Yvonne;Yvonne;Stander;Mrs.;7,61E+12;08 11 1976;8;Female;English;Married - ANC with accrual;;119075952;;;;yvonne@iwa.co.za;082-9565735;;;;;14 Roslyn Ave;Randhart;Alberton;1449;;;;;;December;0;4754;;Email;Spouse;;;;;;;;Philip Roesch;1;Active;BUSINESS WOMAN;Low
+1678134;Chuene;E;Esther;Esther;;;6,51E+12;04 06 1965;4;;English;Married in COP;;;;;;titus_chuene@merck.com;012-6653557;;;;;1 Trenis Corner;Highveld;;157;;;;;;December;0;4754;;;;;;;;;;;Philip Roesch;1;Active;;Low
+1677976;Glass;D;Derek;Derek;;;5,81E+12;21 11 1958;21;;English;Married - ANC with accrual;;;;;;;082-9026222;;;;;;;;;;;;;;December;0;4754;;;Principal;;;;;;;;Philip Roesch;1;Active;;Low
+1680782;Robbertze;E;Eloise;Eloise;;;7,11E+12;18 07 1971;18;;English;Married - ANC with accrual;;;;;;eloise@tichsmith.co.za;082-5608120;;;;;Po Box 69305;Bryanston;;2194;;;;;;December;0;4754;;;;;;;;;;;Philip Roesch;1;Active;;Low
+1680797;Roesch;J;Janke;Janke;;Miss.;2,05E+11;31 05 2002;31;Female;Afrikaans;Single;;;;;;;;;;;;;Centurion;;157;;;;;;December;0;4754;;SMS;Child;;;;;;;;Philip Roesch;1;Active;;Low
+1678697;Damon;J;Juanita;Juanita;;;8,41E+12;27 10 1984;27;;English;Married in COP;;;;;;jwaiteo@gmail.com;082-3310054;;;;;"""104 Sunninghill Court
+Sunninghill Rd.""";Wynberg;;7800;;;;;;December;0;4754;;;;;;;;;;;Philip Roesch;1;Active;;Low
+1678713;Bekker;M;Marle;Marle;;Mrs.;8,51E+12;08 11 1985;8;Female;English;Married - ANC with accrual;;;;;;marle.coertzen@bcx.co.za;082-3980627;;;;;Posbus 11795;Wierdapark;;149;;;;;;December;0;4754;;Email;Spouse;;;;;;;;Philip Roesch;1;Active;;Low
+1678497;Gomm;T;Tara;Tara;;;7,60E+12;21 02 1976;21;;English;Single;;;;;;;;;;;;;;;;;;;;;December;0;4754;;;;;;;;;;;Philip Roesch;1;Active;;Low
+1678512;du Pisani;Z;Zelda;Zelda;;Mrs.;7,61E+12;28 08 1976;28;Female;English;Married - ANC with accrual;;;;;;;082-8994047;Huis no 2;Canary laan 44;Rustenburg;299;PO Box 186;Rustenburg;Rustenburg;300;;;;;;December;0;4754;;Email;Spouse;;;;;;;;Philip Roesch;1;Active;;Low
+1678673;Bezuidenhout;K;Kristel;Kristel;;;8,31E+12;15 05 1983;15;;English;Single;;;;;;;;;;;;;;;;;;;;;December;0;4754;;;;;;;;;;;Philip Roesch;1;Active;;Low
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+1678681;Branken;P;Petrus;Petrus;;;8,31E+12;26 11 1983;26;;English;Single;;;;;;;;;;;;;;;;;;;;;December;0;4754;;;;;;;;;;;Philip Roesch;1;Active;;Low
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+1678549;De Jager;A;Andries;Andries;;;7,80E+12;02 01 1978;2;;English;Single;;;;;;;;;;;;;;;;;;;;;December;0;4754;;;;;;;;;;;Philip Roesch;1;Active;;Low
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+1678556;Booysen;C;Conrad;Conrad;;;7,80E+12;15 03 1978;15;;English;Single;;;;;;cbooysen@polka.co.za;082-7428271;;;;;;;;;;;;;;December;0;4754;;;;;;;;;;;Philip Roesch;1;Active;;Low
+1678593;Dixon;G;Gideon;Gideon;;;7,91E+12;17 11 1979;17;;English;Married in COP;;;;;;gideond@dcd.co.za;083-6583645;;;;;"""Apeldoorn 23 
+Uitzicht Estate""";Uitzicht;;7550;;;;;;December;0;4754;;;;;;;;;;;Philip Roesch;1;Active;;Low
+1678616;Cornforth;B M;Brett Mark;Brett;;Mr.;8,01E+12;28 10 1980;28;Male;English;Married - ANC with accrual;;;;;;brettc@osiristrading.co.za;079-8778406;;;;;"32Mimosa; 44 Gemsbok rd";Monumentpark;;181;;;;;;December;0;4754;;Email;;;;;;;;;Philip Roesch;1;Active;;Low
+1678686;Botha;I;Ivan;Ivan;;;8,40E+12;08 02 1984;8;;English;Married - ANC with accrual;;;;;;bothaivan@yahoo.com.au;078-3917610;;;;;"""Crystal Creek 3008 
+Disa Laan""";Gordonsbaai;;7140;;;;;;December;0;4754;;;Principal;;;;;;;;Philip Roesch;1;Active;;Low
+1680140;Landman;M;Marie;Marie;;;6,11E+12;07 10 1961;7;;English;Married - ANC with accrual;;;;;;;083-2790298;;;;;;;;;;;;;;December;0;4754;;;;;;;;;;;Philip Roesch;1;Active;;Low
+1680244;Maake;N;N;N;;;6,11E+12;29 09 1961;29;;English;Single;;;;;;npmaake@absamail.co.za;083-2936875;;;;;;;;;;;;;;December;0;4754;;;;;;;;;;;Philip Roesch;1;Active;;Low
+1678128;Jacobs;A;Albert;Albert;;;6,50E+12;04 03 1965;4;;English;Married - ANC with accrual;;;;;;albert.jacobs@atecpmc.co.za;084-5038943;;;;;Posbus 12208;Clubview;;157;;;;;;December;0;4754;;;;;;;;;;;Philip Roesch;1;Active;;Low
+1678216;Goss;JGJ;Jacobus Gerhardus J;Jacobus;;Mr.;6,81E+12;04 07 1968;4;Male;Afrikaans;Married - ANC with accrual;;;;;;Koos.Goss@mweb.co.za;824680555;;;;;PO Box 11431;Wierdapark;WIERDAPARK SOUTH, PRETORIA;57;;;;;;December;0;4754;;SMS;Principal;;;;;;;;Philip Roesch;1;Active;;Low
+1678454;Delport;EF;Eluned Florence;Eluned;;Dr.;7,41E+12;14 10 1974;14;Female;Afrikaans;Married - ANC with accrual;;;;;;el-unedg@yahoo.com;082-9243458;16 Beau Art Cresent;Mooikloof;;;PO Box 1073;Faerie Glen;;43;No;;;;;December;960000;4754;;Email;Principal;;Standard Bank;Current;Lynnwoodridge;;*********4497;Gauche EF;Philip Roesch;1;Active;PHYSICIAN;Low
+1678260;Fourie;M;Matthys;Matthys;;;6,91E+12;13 08 1969;13;;English;Married - ANC with accrual;;;;;;;;;;;;;;;;;;;;;December;0;4754;;;;;;;;;;;Philip Roesch;1;Active;;Low
+1677970;Brown;C E;Charles Edward;Charles;;Mr.;5,81E+12;09 07 1958;9;Male;English;Married - ANC with accrual;;;;;;cbrown@satereno.co.za;082-4537066;10 Hibiscus street;Roodekrans;;1724;Posbus 2448;Wilropark;;1731;;;;;;December;0;4754;;Email;Principal;"<b>Suzette Findlay 2018-10-23 12:20:36</b><br/>Your client may be reviewing their policy with another Adviser
+
+We received a request from the Astute Financial Services Exchange platform for information on your client. As the financial adviser on record we want to tell you about the request, as this may affect your relationship with your client. 
+
+Please see the below correspondence sent to your client, reminding them of the unique benefits available on their Discovery Invest policy and referring them to you for advice. 
+
+If you accessed these details via Astute, please ignore this communication.
+Your client can also visit www.astutefse.com/online/CCP/Individual/ to view details of any Financial intermediary who has requested their information via the Astute Financial Services Exchange. Discovery Invest does not have access to requestor details
+
+
+____________________________________________________________________________________
+
+
+Dear CE BROWN
+Discovery Retirement Optimiser - RA : 8820032537
+Maintain your Investment with Discovery Invest: 
+</br>";;;;;;;Philip Roesch;1;Active;;Low
+1678035;Botha;RJP;Roelof Jacobus Petrus;Roelof;;Mr.;6,11E+12;14 07 1961;14;;English;Married - ANC with accrual;;;;(023) 2300792;;roelof.medicaldoctor@absamail.co.za;082-3274444;36 VAN DER STEL STREET;TULBAGH;;6820;Van Der Stel Straat 26;;;6820;;;;;;December;0;4754;;;Principal;;;;;;;;Philip Roesch;1;Active;;Low
+1678178;Du Plessis;F;Ferdinand;Ferdinand;;;6,70E+12;17 03 1967;17;;English;Single;;;;;;bistro@theladyandthefig.co.za;082-7842139;;;;;6 Nerina Crecent;Gordonsbaai;;7140;;;;;;December;0;4754;;;;;;;;;;;Philip Roesch;1;Active;;Low
+1678180;Appelgryn;A;Andre;Andre;;Mr.;6,70E+12;30 03 1967;30;Male;English;Married - ANC with accrual;;(012) 9932690;;(012) 6434100;;appelgryn67@gmail.com;082-564-2559;;;;;;;;;;;;;;December;0;4754;;Email;Principal;;;;;;;;Philip Roesch;1;Active;ACCOUNTANT;Low
+1680168;Le Roux;J;Johaline;Johaline;;;7,80E+12;22 04 1978;22;;English;Married - ANC with accrual;;;;;;johalinelr@ashtongroup.co.za;082-4186654;;;;;P.O. Box 15679;Sinoville;;129;;;;;;December;0;4754;;;;;;;;;;;Philip Roesch;1;Active;;Low
+1680218;Loubser;H;Hilda;Hilda;;;7,51E+12;24 07 1975;24;;English;Single;;;;;;;;;;;;;;;;;;;;;December;0;4754;;;;;;;;;;;Philip Roesch;1;Active;;Low
+1680225;Louw;DC;Deon Christian;Deon;;Mr.;7,20E+12;31 03 1972;31;;English;Married - ANC with accrual;;;;;;deonlo@midrand-estates.co.za;082-9028181;16 Brook Crescent Midfield;Midrand Estates;Brakfontein Road;157;Po Box 382;;;154;;;;;;December;0;4754;;;Principal;;;;;;;;Philip Roesch;1;Active;;Low
+1680363;Menelaou;M;Menelaos;Menelaos;;Mr.;5,40E+12;09 01 1954;9;Male;English;Married - ANC with accrual;;(012) 8090498;;(012) 3481184;;eunyce@bitcc.co.za;824624575;;;;;Po Box 11076;Silverlakes;;54;;;;;;December;0;4754;;Email;Principal;;;;;;;;Philip Roesch;1;Active;;Low
+1678601;Bahlmann;H;Heinrich;Heinrich;;;8,00E+12;19 02 1980;19;;English;Married - ANC with accrual;;;;;;;;;;;;;;;;;;;;;December;0;4754;;;;;;;;;;;Philip Roesch;1;Active;;Low
+1678609;Bredell;A W;Anton Wilhelm;Anton;;Mr.;8,01E+12;28 06 1980;28;Male;English;Single;;;;;;anton_bredell@hotmail.com;072-2024896;;;;;Posbus 1951;Noorsekloof;Jeffreysbaai;6331;;;;;;December;0;4754;;Email;;;;;;;;;Philip Roesch;1;Active;;Low
+1681000;Stolk;S;Steve;Steve;;Mnr.;6,90E+12;06 01 1969;6;Male;English;;;;;;;;082-5501139;Plot 416;Derdepoort;;;;;Pretoria;;No;;;Lynnies Laerskool;;December;0;4754;;;Principal;;ABSA;Current;;632005;*********8721;Lynnies Laerskool;Philip Roesch;1;Active;TEACHER/HEAD MASTER/LECTURER/DEAN;Low
+1680462;Muir;Z;Zandi;Zandi;;;8,41E+12;05 06 1984;5;;English;Single;;;;;;zandimuir@hotmail.com;083-2979431;;;;;Strandmews 7;Strand;;7140;;;;;;December;0;4754;;;;;;;;;;;Philip Roesch;1;Active;;Low
+1681174;Van Der Nest;H;Hazel;Hazel;;Mr.;7,60E+12;11 03 1976;11;Female;English;Single;;;;;;hazel@orionbroking.co.za;083-3715464;;;;;PO   Box 35392;Menlo Park;;102;;;;;;December;0;4754;;;Principal;;;;;;;;Philip Roesch;1;Active;;Low
+1680561;Oberholzer;KJ;Karel Johannes;Karel;;Mnr.;7,00E+12;28 03 1970;28;Male;Afrikaans;Married - ANC with accrual;;;;012-6624172;;karel@o5projects.co.za;836092762;27 Verwoerd Avenue;Pierre van Ryneveld;;45;Posbus 9918;Centurion;;157;;;1276012646;;;December;0;4754;;Email;Principal;;;;;;;;Philip Roesch;1;Active;;Low
+1680735;Ralph;P;Pieter;Pieter;;;6,31E+12;20 05 1963;20;;English;Married in COP;;;;;;info@avignon-guesthouse.co.za;083-5481164;;;;;7 Dierama Close;Gordonsbaai;;7140;;;;;;December;0;4754;;;;;;;;;;;Philip Roesch;1;Active;;Low
+1681221;Van Jaarsveld;SR;Stefan;Stefan;;Mr.;6,61E+12;30 08 1966;30;Male;English;Married;;;;;;steve@vodamail.co.za;072-6013352;;;;;;;;;;;;;;December;0;4754;;;Principal;;;;;;;;Philip Roesch;1;Active;;Low
+1678731;Korff;E;Elmero;Elmero;;;8,71E+12;23 05 1987;23;;English;Single;;;;012-6619862;;;;;;;;PO Box 332;The Reeds;;61;;;;;;December;0;4754;;;;;;;;;;;Philip Roesch;1;Active;;Low
+1680776;Rix;HCW;Heinrich Carl Wilhelm;Heinrich ;;Mr.;6,31E+12;08 08 1963;8;Male;English;Married - ANC with accrual;;;;;;heinrichr@tradeskills.co.za;083-2766776;;;;;41 Sprite Avenue;Faerie Glen;;81;;;;;;December;0;4754;;Email;Principal;"<b>Suzette Findlay 2018-10-10 13:05:27</b><br/>Heinrich Rix - Son - 971024 5040 08 9</br><b>Suzette Findlay 2018-10-10 13:04:28</b><br/>Carla Rix - Daughter - 001214 0039 08 7
+
+Heinrich Rix -</br>";;;;;;;Philip Roesch;1;Active;;Low
+1680099;Kruger;BJ;Barend;Barend;;Mr.;5,61E+12;28 07 1956;28;Male;English;Married in COP;;;;;;barryk@munimed.co.za;083-3061223;;;;;Posbus 2842;Faerie Glen;;43;;;;;;December;0;4754;;;Principal;;;;;;;;Philip Roesch;1;Active;;Low
+1681421;Wiggill;S;Stephen;Stephen;;;7,61E+12;06 06 1976;6;;English;Married in COP;;;;;;stephenwiggill@telkomsa.net;083-4120380;;;;;"""7 B Helmsley Cres
+Parklands""";Milnerton;;7441;;;;;;December;0;4754;;;;;;;;;;;Philip Roesch;1;Active;;Low
+1680235;Lubbe;G;Gilda;Gilda;;Mev.;7,40E+12;11 02 1974;11;Female;Afrikaans;Married - ANC with accrual;;;;;;gilda1@telkomsa.net;082-5950072;;;;;Posbus 38661;Faerie Glen;;43;;;;;;December;0;4754;;;Principal;;;;;;;;Philip Roesch;1;Active;;Low
+2504901;Ellis;WF;Wynand Francois;Wynand;;Mr.;6,61E+12;03 06 1966;3;Male;English;Married;;;;(012)8075421;;ellis@ellisengineers.co.za;(082) 4162688;2 Nyala Place Pretorius Park ;;LYNNWOOD RIDGE;81;POSBUS 72018;LYNNWOODRIF;;40;;;;;;December;0;4754;;;Spouse;;;;;;;;Philip Roesch;1;Active;;Low
+1680938;Snyman;T;Theunis;Theunis;;;6,71E+12;02 07 1967;2;;English;Married in COP;;;;011-8947909;;dynamicworx@mweb.co.za;;;;;;"""Mc Millan Straat 20 
+Beyerspark""";Boksburg;;1459;;;;;;December;0;4754;;;;;;;;;;;Philip Roesch;1;Active;;Low
+1680393;Miya;D;Dumisani;Dumisani;;;8,01E+12;22 08 1980;22;;English;Married in COP;;;;;;dumisani.miya@resbank.co.za;083-3581207;;;;;PO Box 12345;Katlehong;;1432;;;;;;December;0;4754;;;Principal;;;;;;;;Philip Roesch;1;Active;;Low
+4510360;Simitopoulos;D;Dimitrios;Dimitrios;;Mnr.;7,40E+12;18 03 1974;18;Male;English;;;;;;;'dimitri.simitopoulos@icloud.com';828279006;170 Johan Rissik Drive No 8;;Waterkloof;181;PO Box 17089;;GROENKLOOF,PRETORIA;27;;;;;;December;0;4754;;;Principal;;;;;;;;Philip Roesch;1;Active;;Low
+1680608;Penning;J;Jade;Jade;;;1,08E+11;13 08 2001;13;;English;Single;;;;;;;;;;;;;;;;;;;;;December;0;4754;;;;;;;;;;;Philip Roesch;1;Active;;Low
+1680638;Pienaar;L;Lorraine;Lorraine;;Mrs.;6,90E+12;16 01 1969;16;;English;Married - ANC with accrual;;;;;;lorraine.pienaar@actian.com;082-3875928;Suzmanlaan 49;Blairgowie;Randburg;2194;Posbus 55544;Wierda Park;;749;;;;;;December;0;4754;;;Principal;;;;;;;;Philip Roesch;1;Active;;Low
+1681127;van Breda;FR;Francois Retief;Francois;;Mr.;7,91E+12;19 09 1979;19;Male;English;Married - ANC with accrual;;;;;;francois@legalinc.co.za;082-6019840;;;;;Posbus 11623;Swartkops;;1747;;;;;;December;0;4754;;;Principal;;;;;;;;Philip Roesch;1;Active;;Low
+1680844;Samaai;S;Shu-Aib;Shu-Aib;;;9,70E+12;12 01 1997;12;;English;Single;;;;;;;082-8520933;;;;;"""3 Boyne Str .
+Primrose Park""";Athlone;;7764;;;;;;December;0;4754;;;;;;;;;;;Philip Roesch;1;Active;;Low
+1680849;Sandiford;TL;Trent Luke;Trent;;Mr.;7,21E+12;06 11 1972;6;Male;English;Married;;;;;;trent@loyaltylife.co.za;712334671;1562 Morefontein;Copperleaf Golf Course;;;Posbus 109;;CELTIS RIDGE,PRETORIA;130;Yes;;;;;December;90000;4754;;Email;Principal;"<b>Suzette Findlay 2016-11-30 11:49:39</b><br/>Bank Account: Loyalty Life Management Service
+Registration no 2014/084103/07
+First national Bank
+Branch: 21-05-29
+Account no:  62553496897
+</br>";;;;;;;Philip Roesch;1;Active;;Low
+1680653;Pieterse;CHM;Carel Hendrik Mostert;Carel ;;Mr.;7,20E+12;20 03 1972;20;Male;English;Married - ANC with accrual;;;;;;calliep@mbainc.co.za;082-5617019;The Glen 10;Tepparapy Straat;Faerie Glen;43;Posbus 11997;Wierdapark-Suid;;57;No;;;Imbuia Trust / IT1429/05;;December;0;4754;;Email;Principal;;Standard Bank;Cheque Account;Centurion;12645;*********3048;Imbuia Trust;Philip Roesch;1;Active;;Low
+1681459;Zwane;N;Nomsa;Nomsa;;;4,61E+12;18 10 1946;18;;English;Single;;;;011-9366936;;;;;;;;;;;;;;;;;December;0;4754;;;;;;;;;;;Philip Roesch;1;Active;;Low
+1680798;Roesch;M;Maryna;Maryna;;Mr.;6,21E+12;09 10 1962;9;;English;Married - ANC with accrual;;;;;;;073-2641320;;;;;Rosalind Weg 240;Murrayfield;;184;;;;;;December;0;4754;;;Adult;;;;;;;;Philip Roesch;1;Active;;Low
+1680794;Rodrigues;J;Joanne;Joanne;;;6,61E+12;11 05 1966;11;;English;Divorced;;;;;;joanne@easengineers.co.za;076-3736813;;;;;13 Combrinck Street;Monte Vista;;7460;;;;;;December;0;4754;;;Principal;;;;;;;;Philip Roesch;1;Active;;Low
+1681342;Visser;M;Marriet;Marriet;;;6,61E+12;02 11 1966;2;;English;Single;;;;;;marriet.visser@bcx.co.za;072-0737826;;;;;Posbus 2326;North Ridding;;;;;;;;December;0;4754;;;;;;;;;;;Philip Roesch;1;Active;;Low
+1681353;Von Maltitz;M;Mariette;Mariette;;Mev.;7,30E+12;15 02 1973;15;Female;English;Married - ANC with accrual;;;;;;mariettevm@vippayroll.co.za;834078618;;;;;"""Durham Straat 72 
+Clubview 
+Centurion""";Clubview;;157;;;;;;December;0;4754;;;Principal;;;;;;;;Philip Roesch;1;Active;;Low
+1681054;Taylor;G;Grant;Grant;;;7,21E+12;21 10 1972;21;;English;Single;;;;;;getaylor@telkomsa.net;082-8573804;;;;;;;;;;;;;;December;0;4754;;;;;;;;;;;Philip Roesch;1;Active;;Low
+1681055;Teme;L;Lesego;Lesego;;;8,51E+12;13 05 1985;13;;English;;;;;;;;083-3032832;;;;;;;;;;;;;;December;0;4754;;;;;;;;;;;Philip Roesch;1;Active;;Low
+1681312;Venter;M;Madelyn;Madelyn;;;8,11E+12;04 10 1981;4;;English;Single;;;;;;madelyn@realcorcape.co.za;072-9609477;;;;;17 Linpark Singel;Strand;;7140;;;;;;December;0;4754;;;;;;;;;;;Philip Roesch;1;Active;;Low
+4517883;Robbertse;DJ;Daniel Jacobus;Niel;;Mnr.;7,71E+12;19 05 1977;19;Male;Afrikaans;Married;;105 911 068;;;;lee@unistruck.co.za;824670263;60 Adell Crescent;;MAGALIESKRUIN,PRETORIA;182;60 Adell Crescent;;MAGALIESKRUIN,PRETORIA;182;;;;;;December;0;4754;;Email;Principal;"<b>Suzette Findlay 2018-02-20 11:42:00</b><br/>Discovery Life #5131187204
+
+Vitality #5003727272</br>";;;;;;;Philip Roesch;1;Active;;Low
+2240269;Turner ;CR;Colin Richard;Colin;;Dr.;7,21E+12;24 06 1972;24;Male;English;;;;;;;doccolin@mweb.co.za;829253131;20 Marabou Str;;;1201;;;;;;;;;;December;0;4754;;Email;Principal;;;;;;;;Philip Roesch;1;Active;;Low
+3312518;Holtzhausen;H;Henriette;Henriette;;Mev.;5,90E+12;07 04 1959;7;Female;Afrikaans;;;;;;;;(083) 7773354;;;;;;;;;;;;;;December;0;4754;;;Principal;;;;;;;;Philip Roesch;1;Active;;Low
+1680947;Spies;K;Kristonel;Kristonel;;;7,21E+12;10 08 1972;10;;English;Married - ANC with accrual;;;;012-5673845;;;;;;;;161 Steenbras Straat;Sinoville;;182;;;;;;December;0;4754;;;;;;;;;;;Philip Roesch;1;Active;;Low
+1680958;Stark;A;Anne-Mare;Anne-Mare;;Mrs.;5,41E+12;26 08 1954;26;Female;English;Widowed;;126580187;126580187;;;starks@mweb.co.za;822948716;Unit 9, Dawns Villas,;Sol Close, Eldo Glen;Centurion;157;PO Box 12630;;CLUBVIEW,CENTURION;14;;;;;;December;0;4754;;;Principal;;;;;;;;Philip Roesch;1;Active;;Low
+1681013;Strydom;R;Rosa;Rosa;;;5,10E+12;18 03 1951;18;;English;Single;;;;;;;;;;;;"""140 Vereniging Road 
+Eagles Nest""";Johannesburg;;2001;;;;;;December;0;4754;;;;;;;;;;;Philip Roesch;1;Active;;Low
+1681015;Sutherland;AJ;Andries Johannes;Andre;;Mr.;5,61E+12;12 08 1956;12;;English;Married - ANC with accrual;;;;;;ucssfin@mweb.co.za;082-4478833;;;;;; ;;43;;;;;;December;0;4754;;;Principal;;;;;;;;Philip Roesch;1;Active;;Low
+1681359;Vorster;H;H;H;;;6,01E+12;17 05 1960;17;;English;Single;;;;;;;;;;;;;;;;;;;;;December;0;4754;;;Principal;;;;;;;;Philip Roesch;1;Active;;Low
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+1681363;Vorster;M;Magdalena;Magdalena;;;7,10E+12;12 02 1971;12;;English;Married - ANC with accrual;;;;;;;;;;;;Posbus 647;RUSTENBURG;;300;;;;;;December;0;4754;;;;;;;;;;;Philip Roesch;1;Active;;Low
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+1681374;Vosloo;B;Bianca;Bianca;;;8,81E+12;27 08 1988;27;;English;Single;;;;;;;;;;;;;;;;;;;;;December;0;4754;;;Principal;;;;;;;;Philip Roesch;1;Active;;Low
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+1681389;Walters;A;Andre;Andre;;;6,71E+12;14 09 1967;14;;English;Married in COP;;;;;;;074-5133330;;;;;101 Kleinbos Avenue;Strand;;7140;;;;;;December;0;4754;;;;;;;;;;;Philip Roesch;1;Active;;Low
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+1681408;Wessels;L;Luitjie;Luitjie;;;5,91E+12;28 12 1959;28;;English;Divorced;;;;;;;084-5115805;;;;;Posbus 72055;Lynnwoodrif;;81;;;;;;December;0;4754;;;;;;;;;;;Philip Roesch;1;Active;;Low
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+1681410;Wessels;R;Raymond;Raymond;;;5,91E+12;24 12 1959;24;;English;Married - ANC with accrual;;;;;;;082-8552288;;;;;"""Postnet Suite 32
+Private Bag  X1510""";Glenvista;;2091;;;;;;December;0;4754;;;Principal;;;;;;;;Philip Roesch;1;Active;;Low
+1681435;Williams;J;Jaden;Jaden;;;8,10E+11;27 10 2008;27;;English;Single;;;;021-9515646;;;;;;;;14 Mackenzie Rd.;Bellville South;;7530;;;;;;December;0;4754;;;;;;;;;;;Philip Roesch;1;Active;;Low
+2883453;Olsen;HM;Hester Magdalena;Hettie;;Mev.;6,00E+12;30 03 1960;30;Female;English;;;;;;;hettieolsen@gmail.com;829299263;;;;;;;;;;;;;;December;0;4754;;;Principal;;;;;;;;Philip Roesch;1;Active;;Low
+4680713;Hopkins;NI;Natasha Ilse;Natasha;;Mev.;7,21E+12;17 08 1972;17;Female;;Married;;;;;;natashho@gmailo.com;824516146;6 Pratt Avenue;Glen Vista X3;Johannesburg;2091;PO Box 5863;Meyersdal;Meyersdal;1447;;;;;;December;0;4754;;Email;Spouse;;;;;;;;Philip Roesch;1;Active;;Low
+1678077;De Villiers;A;Abraham;Abraham;;;6,31E+12;23 07 1963;23;;English;Married - ANC with accrual;;;;;;;072-9755857;;;;;"""7 Villiersstraat 
+Morgensterhoogte""";Brackenfell;;7560;;;;;;December;0;4754;;;Principal;;;;;;;;Philip Roesch;1;Active;;Low
+1678085;Botha;L;Lorette;Lorette;;;6,31E+12;25 11 1963;25;;English;Married - ANC with accrual;;;;;;;828703608;;;;;;;;;;;;;;December;0;4754;;;Principal;;;;;;;;Philip Roesch;1;Active;;Low
+1678516;Innes;V;Victoria;Victoria;;;7,61E+12;26 10 1976;26;;English;Married - ANC with accrual;;;;;;;076-6256277;;;;;"""3 Maui Drive 
+Southbreak Development
+North southlink Road""";Muizenberg;;7945;;;;;;December;0;4754;;;;;;;;;;;Philip Roesch;1;Active;;Low
+1678627;Coetzee;L;Lodewicus;Lodewicus;;;8,11E+12;28 07 1981;28;;English;;;;;;;;082-5582699;;;;;;;;;;;;;;December;0;4754;;;;;;;;;;;Philip Roesch;1;Active;;Low
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+1678639;Botes;E;Etienne;Etienne;;;8,20E+12;15 02 1982;15;;English;Single;;;;;;;;;;;;;;;;;;;;;December;0;4754;;;;;;;;;;;Philip Roesch;1;Active;;Low
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+1678646;Joseph;M;Mellany;Mellany;;;8,20E+12;20 04 1982;20;;English;Married in COP;;;;;;mellany.b@gmail.com;072-4378188;;;;;"""3 Sailfish Rd 
+On The Bay""";Strandfontein;;7798;;;;;;December;0;4754;;;;;;;;;;;Philip Roesch;1;Active;;Low
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+1678658;Hugo;H;Herman;Herman;;;8,21E+12;25 07 1982;25;;English;Single;;;;;;herman@vredelust.com;082-3725075;;;;;;;;;;;;;;December;0;4754;;;;;;;;;;;Philip Roesch;1;Active;;Low
+1678662;Barnes;D;David;David;;;8,21E+12;18 09 1982;18;;English;Single;;;;012-8021778;;;;;;;;"""Postnet Suite A130
+Private Bag X18""";LYNNWOOD RIDGE;;40;;;;;;December;0;4754;;;;;;;;;;;Philip Roesch;1;Active;;Low
+1681391;Walters;M;Michael;Michael;;;6,51E+12;21 10 1965;21;;English;;;;;;;mike@renprop.co.za;083-6018477;;;;;;;;;;;;;;December;0;4754;;;;;;;;;;;Philip Roesch;1;Active;;Low
+1681392;Wannenburg;A;Abraham;Abraham;;;3,91E+12;06 07 1939;6;;English;Single;;;;;;;;;;;;;;;;;;;;;December;0;4754;;;;;;;;;;;Philip Roesch;1;Active;;Low
+1681393;Wannenburg;A;Annesta;Annesta;;;6,41E+12;25 07 1964;25;;English;Single;;;;;;;;;;;;;;;;;;;;;December;0;4754;;;;;;;;;;;Philip Roesch;1;Active;;Low
+1681394;Wannenburg;H;Hein;Hein;;;7,20E+12;28 03 1972;28;;English;Single;;;;;;;;;;;;;;;;;;;;;December;0;4754;;;;;;;;;;;Philip Roesch;1;Active;;Low
+1681407;Wessels;L;Lauren;Lauren;;;8,91E+12;13 08 1989;13;;English;Single;;;;;;;;;;;;;;;;;;;;;December;0;4754;;;;;;;;;;;Philip Roesch;1;Active;;Low

@@ -1,0 +1,153 @@
+body {
+    background: -webkit-gradient(linear, left top, right bottom, from(#003478), to(#c0c1c4));
+    background: linear-gradient(180deg, #003478 0%, #c0c1c4 150%);
+}
+
+body.sidebar-mini {
+    background: #ffffff;
+}
+
+.content {
+    background-color: rgba(0, 0, 0, 0.0);
+}
+
+.btn-dark,.btn-graph{
+    background: #003478;
+    border-color: #003478;
+}
+
+thead th{
+    background-color: #003478 !important;
+    color:#FFFFFF;
+}
+
+.blackboard-recents th{
+    color:#FFFFFF;
+}
+
+.sidebar .header {
+    color: #c2c7d0 !important;
+    border-bottom: 1px solid #c2c7d0;
+    border-top: 1px solid #c2c7d0;
+}
+
+[class*=sidebar-dark] .user-panel,[class*=sidebar-dark] .brand-link{
+
+    border-bottom: 1px solid #c2c7d0;
+}
+
+.btn-referrer{
+    background: #1d4f90;
+    border-color: #1d4f90;
+}
+
+.btn-secondary:not(:disabled):not(.disabled).active, .btn-secondary:not(:disabled):not(.disabled):active, .show>.btn-secondary.dropdown-toggle,
+.btn-outline-dark:not(:disabled):not(.disabled).active, .btn-outline-dark:not(:disabled):not(.disabled):active, .show>.btn-outline-dark.dropdown-toggle{
+    background: #1d4f90;
+    border-color: #1d4f90;
+}
+.btn-dark:hover,.btn-dark:active,.btn-graph:hover{
+    background: #1d4f90;
+    border-color: #1d4f90;
+}
+.btn-outline-light:hover{
+    background: rgb(0,0,0,0.2);
+}
+.sidebar-dark-primary{
+    background: #003478;
+}
+
+tr:hover{
+    background: #e3effe;
+}
+
+.sidebar-mini.sidebar-collapse .main-sidebar, .sidebar-mini.sidebar-collapse .main-sidebar:before{
+    width:5rem;
+}
+
+.main-sidebar .logo-mini {
+    display: none;
+    -webkit-transition: width .3s ease-in-out;
+    -o-transition: width .3s ease-in-out;
+    transition: width .3s ease-in-out;
+}
+
+.main-sidebar .logo-lg {
+    display: block;
+    -webkit-transition: width .3s ease-in-out;
+    -o-transition: width .3s ease-in-out;
+    transition: width .3s ease-in-out;
+}
+
+.sidebar-collapse .logo-mini {
+    display: block;
+    -webkit-transition: width .3s ease-in-out;
+    -o-transition: width .3s ease-in-out;
+    transition: width .3s ease-in-out;
+}
+
+.sidebar-collapse .main-sidebar:hover .logo-mini {
+    display: none;
+    -webkit-transition: width .3s ease-in-out;
+    -o-transition: width .3s ease-in-out;
+    transition: width .3s ease-in-out;
+}
+
+.sidebar-collapse .logo-lg {
+    display: none;
+    -webkit-transition: width .3s ease-in-out;
+    -o-transition: width .3s ease-in-out;
+    transition: width .3s ease-in-out;
+}
+
+.sidebar-collapse .main-sidebar:hover{
+    z-index: 999999;
+}
+
+.sidebar-collapse .main-sidebar:hover .logo-lg {
+    display: block;
+    -webkit-transition: width .3s ease-in-out;
+    -o-transition: width .3s ease-in-out;
+    transition: width .3s ease-in-out;
+}
+
+.sidebar-collapse a.nav-link {
+    padding-left:20px;
+}
+
+
+
+@media (min-width: 992px){
+    .sidebar-mini.sidebar-collapse .content-wrapper, .sidebar-mini.sidebar-collapse .main-footer, .sidebar-mini.sidebar-collapse .main-header {
+        margin-left: 5rem!important;
+    }
+}
+
+.table thead tr.btn-dark:hover td, .table thead tr.btn-dark:hover th,.table thead.btn-dark:hover tr td ,.table thead.btn-dark:hover tr th {
+    background: #003478;
+}
+
+.table tbody tr:hover td, .table tbody tr:hover th {
+    background-color: rgba(153,204,255,0.2);
+}
+
+.badge{
+    vertical-align: top;
+}
+
+.modal-backdrop{
+    z-index:1101 !important;
+}
+
+.modal{
+    z-index:1102 !important;
+}
+
+.card-header{
+    background-color:#003478;
+    color:#FFFFFF;
+}
+
+.nav-sidebar .nav-item .nav .nav-item .nav .nav-link{
+    padding-left:25px;
+}

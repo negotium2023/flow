@@ -1,0 +1,54 @@
+Start Time=02:25:46
+GENERATION LOG
+DATE: 3/3/2021 2:25:47 PM +00:00
+TEMPLATE: Client Consent - Version 3 [811932b8-b870-4256-8e4f-5a7e03ad3e6e:1.0.0.7:11/11/2020 12:08:55 PM +02:00]
+------------------------------------------------------------
+2021/03/03 14:25:46.528:   Begin process
+2021/03/03 14:25:46.528:     Deserializing chain & template
+2021/03/03 14:25:46.588:     Deserialized chain & template [00:00:00.0569609]
+2021/03/03 14:25:46.588:     Preparing dataset
+2021/03/03 14:25:46.588:     Prepared dataset [00:00:00.0000066]
+2021/03/03 14:25:46.588:     Initializing chain & processing
+2021/03/03 14:25:46.588:     Initialized chain [00:00:00.0015519]
+2021/03/03 14:25:46.588:     Start generating
+2021/03/03 14:25:46.588:       Assemble document ...
+2021/03/03 14:25:46.588:         Compiling master script ...
+2021/03/03 14:25:46.593:         Build script instance
+2021/03/03 14:25:46.593:         Compiling main script
+2021/03/03 14:25:47.436:         Checking main script assembly
+2021/03/03 14:25:47.446:         Instantiating script
+2021/03/03 14:25:47.481:         Compiled master script [00:00:00.8919041]
+2021/03/03 14:25:47.481:         Initializing script ...
+2021/03/03 14:25:47.571:         Initialized script [00:00:00.0895239]
+2021/03/03 14:25:47.571:         Building document 'Client Consent - Version 3 [1.0.0.7]'
+2021/03/03 14:25:47.581:         Built document 'Client Consent - Version 3 [1.0.0.7' [00:00:00.0103482]
+2021/03/03 14:25:47.581:       Assembled document [00:00:00.9919513]
+2021/03/03 14:25:47.581:     Completed generation [00:00:00.9920003]
+2021/03/03 14:25:47.581:     Processing chain sub-processes
+2021/03/03 14:25:47.581:   PDF Converter (time remaining: 00:00:58.9466487)
+2021/03/03 14:25:47.581:     Get .doc
+2021/03/03 14:25:47.581:     Get .doc [00:00:00.0000105]
+2021/03/03 14:25:47.581:     Convert to pdf
+2021/03/03 14:25:47.766:     Convert to pdf [00:00:00.1833766]
+2021/03/03 14:25:47.766:     Form field processing
+2021/03/03 14:25:47.766:     Form field processing [00:00:00.0027441]
+2021/03/03 14:25:47.766:   PDF Converter [00:00:00.1865893]
+2021/03/03 14:25:47.766:     Processed chain sub-processes [00:00:00.1871479]
+2021/03/03 14:25:47.766:     Collecting results
+2021/03/03 14:25:47.766:     Collected results [00:00:00.0000082]
+2021/03/03 14:25:47.766:   Completed process [00:00:01.2377685]
+
+------------------------------------------------------------
+2021/03/03 14:25:47.581: Process chain element 'Convert to PDF' [AIS.DocFusion.Processor.RTFConvertor.PDFConvertor,AIS.DocFusion.Processor.RTFConvertor] [00:00:00.1870126]
+2021/03/03 14:25:47.581:   PDF Converter (time remaining: 00:00:58.9466487)
+2021/03/03 14:25:47.581:     Get .doc
+2021/03/03 14:25:47.581:     Get .doc [00:00:00.0000105]
+2021/03/03 14:25:47.581:     Convert to pdf
+2021/03/03 14:25:47.766:     Convert to pdf [00:00:00.1833766]
+2021/03/03 14:25:47.766:     Form field processing
+2021/03/03 14:25:47.766:     Form field processing [00:00:00.0027441]
+2021/03/03 14:25:47.766:   PDF Converter [00:00:00.1865893]
+
+{ "Success" : True, "Error ": ""}
+Done
+Time Taken=-00:00:08.7785465

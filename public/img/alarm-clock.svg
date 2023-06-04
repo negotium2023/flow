@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="25.325" height="24.305" viewBox="0 0 25.325 24.305">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #4ec7e7;
+        opacity: 0.3;
+        isolation: isolate;
+      }
+
+      .cls-2, .cls-4 {
+        fill: none;
+        stroke: #1b4660;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      .cls-2 {
+        stroke-width: 0.933px;
+      }
+
+      .cls-3 {
+        fill: #1b4660;
+      }
+
+      .cls-4 {
+        stroke-width: 1.417px;
+      }
+    </style>
+  </defs>
+  <g id="Group_86" data-name="Group 86" transform="translate(-504.816 -483.688)">
+    <circle id="Ellipse_14" data-name="Ellipse 14" class="cls-1" cx="7.527" cy="7.527" r="7.527" transform="translate(504.816 483.688)"/>
+    <path id="Path_209" data-name="Path 209" class="cls-2" d="M525.789,505.061a9.88,9.88,0,1,1,2.452-3.292"/>
+    <circle id="Ellipse_6" data-name="Ellipse 6" class="cls-3" cx="1.037" cy="1.037" r="1.037" transform="translate(518.217 496.668)"/>
+    <line id="Line_1" data-name="Line 1" class="cls-2" y1="5.454" x2="4.414" transform="translate(519.254 492.251)"/>
+    <line id="Line_2" data-name="Line 2" class="cls-4" y1="3.212" x2="3.852" transform="translate(509.365 486.14)"/>
+    <line id="Line_3" data-name="Line 3" class="cls-4" x2="3.852" y2="3.212" transform="translate(525.292 486.14)"/>
+    <line id="Line_4" data-name="Line 4" class="cls-2" y2="2.543" transform="translate(519.254 485.203)"/>
+  </g>
+</svg>
